@@ -1,5 +1,5 @@
 # Kafka
-# URL Shortener and Data Processing with Kafka
+
 
 A scalable URL shortener service combined with a Kafka-based data processing pipeline for ingesting, cleaning, and embedding data from CSV files.
 
